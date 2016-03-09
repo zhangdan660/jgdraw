@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<artifactId>jgdraw</artifactId>
+		<groupId>com.nbtoptec.draw</groupId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<artifactId>draw</artifactId>
+	<name>draw</name>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<maven.compiler.source>1.7</maven.compiler.source>
+		<maven.compiler.target>1.7</maven.compiler.target>
+		<maven.compiler.compilerVersion>1.7</maven.compiler.compilerVersion>
+	</properties>
+
+	<repositories>
+		<repository>
+			<id>nexus</id>
+			<name>Team Nexus Repository</name>
+			<url>http://192.168.1.11:8081/nexus/content/groups/public</url>
+			<releases>
+			</releases>
+			<snapshots>
+			</snapshots>
+		</repository>
+	</repositories>
+	<pluginRepositories>
+		<pluginRepository>
+			<id>nexus</id>
+			<name>Team Nexus Repository</name>
+			<url>http://192.168.1.11:8081/nexus/content/groups/public</url>
+			<releases>
+			</releases>
+			<snapshots>
+			</snapshots>
+		</pluginRepository>
+	</pluginRepositories>
+
+	<profiles>
+		<profile>
+			<id>default</id>
+			<activation>
+				<activeByDefault>true</activeByDefault>
+			</activation>
+			<properties>
+				<jar.source>1.7</jar.source>
+				<jar.target>1.7</jar.target>
+			</properties>
+		</profile>
+	</profiles>
+
+	<organization>
+		<name>Ningbo Toptech Intelligent Technology Development Limited</name>
+		<url>http://www.nbtoptec.com</url>
+	</organization>
+
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>3.8.1</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.nbtoptec</groupId>
+			<artifactId>jdbc</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.nbtoptec</groupId>
+			<artifactId>log</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.nbtoptec</groupId>
+			<artifactId>netutil</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.nbtoptec</groupId>
+			<artifactId>communication</artifactId>
+			<version>1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>com.nbtoptec.draw</groupId>
+			<artifactId>batik</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.nbtoptec.draw</groupId>
+			<artifactId>graphics</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>5.1.31</version>
+		</dependency>
+		<dependency>
+			<groupId>com.nbtoptec.draw</groupId>
+			<artifactId>batik</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
+			<groupId>com.nbtoptec</groupId>
+			<artifactId>jdbc</artifactId>
+			<version>1.1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-io</groupId>
+			<artifactId>commons-io</artifactId>
+			<version>2.4</version>
+		</dependency>
+	<dependency>
+	<groupId>com.belerweb</groupId>
+	<artifactId>pinyin4j</artifactId>
+	<version>2.5.0</version>
+</dependency>
+
+
+	</dependencies>
+	<build>
+		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-jar-plugin</artifactId>
+				<configuration>
+					<archive>
+						<manifest>
+							<addClasspath>true</addClasspath>
+
+							<mainClass>com.nbtoptec.draw.App</mainClass>
+						</manifest>
+						<manifestEntries>
+							<Class-Path>./</Class-Path>
+						</manifestEntries>
+					</archive>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-dependency-plugin</artifactId>
+				<executions>
+					<execution>
+						<id>copy</id>
+						<phase>package</phase>
+						<goals>
+							<goal>copy-dependencies</goal>
+						</goals>
+						<configuration>
+							<outputDirectory>${project.build.directory}</outputDirectory>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+		</plugins>
+	</build>
+</project>

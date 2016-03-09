@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<config>
+<drivers>
+<driver>com.mysql.jdbc.Driver</driver>
+</drivers>
+<databases>
+<database id="cac2his">
+<url>jdbc:mysql://localhost/cac2his?user=root&amp;password=root&amp;useUnicode=true&amp;characterEncoding=UTF-8&amp;cachePrepStmts=true&amp;cacheCallableStmts=true&amp;cacheServerConfiguration=true&amp;useLocalSessionState=true&amp;elideSetAutoCommits=true&amp;alwaysSendSetIsolation=false&amp;enableQueryTimeouts=false</url>
+<maxconnection>30</maxconnection>
+</database>
+<database id="cac2">
+<url>jdbc:mysql://localhost/cac2?user=root&amp;password=root&amp;useUnicode=true&amp;characterEncoding=UTF-8&amp;cachePrepStmts=true&amp;cacheCallableStmts=true&amp;cacheServerConfiguration=true&amp;useLocalSessionState=true&amp;elideSetAutoCommits=true&amp;alwaysSendSetIsolation=false&amp;enableQueryTimeouts=false</url>
+<maxconnection>30</maxconnection>
+</database>z
+</databases>
+</config>

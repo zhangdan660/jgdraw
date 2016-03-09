@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+	<!--画布 -->
+	<canvas>
+		<!--默认宽度 -->
+		<width>1024</width>
+		<!--默认高度 -->
+		<height>768</height>
+		<!--默认背景色，6个16进制为表示的rgb颜色 -->
+		<background-color>000000</background-color>
+		<!--默认放大比例 -->
+		<zoom>1</zoom>
+	</canvas>
+	<!--标尺 -->
+	<rules>
+		<!--可见 -->
+		<visible>true</visible>
+	</rules>
+	<!--网格 -->
+	<grid>
+	</grid>
+	<!--新建图形默认的图层，用逗号隔开 -->
+	<layers>110kv,220kv</layers>
+	<!--元件库、图库服务器 -->
+	<server>
+	    <!-- ftp服务器地址 -->
+	    <addr>192.168.2.72</addr>
+	    <!-- ftp用户名 -->
+		<user>cac2011</user>
+		<!-- ftp密码 -->
+		<passwd>cac2011</passwd>
+		<!-- 服务器端文件夹路径 -->
+		<remotepath>/home/cac2011/ftp/svgout</remotepath>
+		<!-- 本地保存路径 -->
+		<localpath>E:\svgout</localpath>
+		</server>
+	<!--查询、更新的sql语句 -->
+	<sql>
+		<!--设备树,需要查询4个字段：id，名称，父节点id，所在树的层次 -->
+		<psrtree>select id,name,parentid,level from psr</psrtree>
+		<!--测点列表，查询2个字段：id，名称。有一个参数：设备id -->
+		<measlist>select id,name from xxx where yyy={1}</measlist>
+		<!--图形类别列表 查询2个字段：id，名称 -->
+		<typelist> select id,name from xxx </typelist>
+		<!-- 图形设备关系列表 查询3个字段：pic，psr_id,pic_type -->
+		<typelist> select pic,psr_id,pic_type from xxx </typelist>
+		<!--修改图形与设备关联关系,有3个参数：图形文件名，设备id，图形类别 -->
+		<updatelink>update xxx set psr_id={2},pic_type={3} where pic={1}
+		</updatelink>
+		<!-- 增加图形与设备关联关系,有3个参数：图形文件名，设备id，图形类别 -->
+		<insertlink>insert xxx values ({1},{2},{3})</insertlink>
+	</sql>
+</configs>

@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="Transformer2:jx接地变二端子_0" viewBox="0,0,24,26" name="变压器"> 
+<circle cx="12" cy="14" r="10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="7" y2="17" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="12" y2="8" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="17" y2="17" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer2:jx接地变二端子_1" viewBox="0,0,24,26" name="变压器"> 
+<circle cx="12" cy="14" r="10" stroke-width="1" fill="none" stroke="rgb(0,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="7" y2="17" stroke-width="1" fill="none" stroke="rgb(0,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="12" y2="8" stroke-width="1" fill="none" stroke="rgb(0,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="17" y2="17" stroke-width="1" fill="none" stroke="rgb(0,255,0)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx_4圈压变2_0" viewBox="0,0,36,48" name="圈压变"> 
+<circle cx="17.5" cy="8.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="17.5" cy="17.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="13.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="27.5" cy="12.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="18" y1="24" x2="18" y2="44" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<rect x="12" y="28" width="12" height="16" transform="rotate(0,18,36)" stroke-width="1" stroke="rgb(0,0,255)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Terminal:jx线路压变35_0" viewBox="0,0,20,36" name="其他"> 
+<circle cx="10" cy="12" r="8" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="10" cy="23" r="8" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer2:jx系统接线两圈变压器_1" viewBox="0,0,24,44" name="变压器"> 
+<circle cx="12" cy="29" r="10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<polygon points="7,34 11,26 16,34" stroke-width="1" stroke="rgb(0,0,255)" fill="none" Plane="1" AFMask="32783"/> 
+</symbol>
+<symbol id="Breaker:jx相开关专用_0" viewBox="0,0,34,18" name="开关竖"> 
+<rect x="4" y="3" width="26" height="13" transform="rotate(0,17,9)" stroke-width="1" stroke="rgb(0,0,255)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Breaker:jx相开关专用_1" viewBox="0,0,34,18" name="开关竖"> 
+<rect x="4" y="3" width="26" height="13" transform="rotate(0,17,9)" stroke-width="1" stroke="rgb(0,0,255)" fill="rgb(255,0,0)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer2:jx系统接线两圈变压器_0" viewBox="0,0,24,44" name="变压器"> 
+<circle cx="12" cy="14" r="10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="7" y2="17" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="12" y2="8" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="17" y2="17" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx35压变4圈1_0" viewBox="0,0,36,28" name="圈压变"> 
+<circle cx="17.5" cy="8.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<circle cx="17.5" cy="17.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="13.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<circle cx="27.5" cy="12.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx_2圈压变_0" viewBox="0,0,18,48" name="圈压变"> 
+<circle cx="8.5" cy="39.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="30.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="24" x2="9" y2="4" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<rect x="3" y="4" width="12" height="16" transform="rotate(360,9,12)" stroke-width="1" stroke="rgb(0,0,255)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx35压变4圈3_0" viewBox="0,0,36,48" name="圈压变"> 
+<circle cx="17.5" cy="8.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<circle cx="17.5" cy="17.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="13.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<circle cx="27.5" cy="12.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="18" y1="24" x2="18" y2="44" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<rect x="12" y="28" width="12" height="16" transform="rotate(0,18,36)" stroke-width="1" stroke="rgb(255,255,0)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx_2圈压变2_0" viewBox="0,0,18,28" name="圈压变"> 
+<circle cx="8.5" cy="8.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="17.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="DollyBreaker:jx小车开关横_1_3" viewBox="0,0,90,22" name="小车开关竖"> 
+<line x1="61" y1="19" x2="69" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="69" y1="11" x2="61" y2="3" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="74" y1="11" x2="66" y2="3" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="66" y1="19" x2="74" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="14" y1="11" x2="22" y2="3" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="22" y1="19" x2="14" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="19" y1="11" x2="27" y2="19" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="57" y1="11" x2="84" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="27" y1="3" x2="19" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="4" y1="11" x2="32" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> 
+</symbol>
+<symbol id="DollyBreaker:jx小车开关横_1_0" viewBox="0,0,90,22" name="小车开关竖"> 
+<line x1="19" y1="11" x2="31" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="4" y1="19" x2="12" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="56" y1="11" x2="68" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="20" y1="19" x2="12" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="20" y1="11" x2="12" y2="3" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="4" y1="11" x2="12" y2="3" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="76" y1="11" x2="84" y2="3" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="77" y1="11" x2="68" y2="3" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="77" y1="19" x2="68" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="76" y1="19" x2="84" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx35压变4圈2_0" viewBox="0,0,36,30" name="圈压变"> 
+<circle cx="17.5" cy="11.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<circle cx="17.5" cy="19.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="15.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<circle cx="27.5" cy="15.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="DollyBreaker:jx小车开关横_1_2" viewBox="0,0,90,22" name="小车开关竖"> 
+<line x1="4" y1="11" x2="13" y2="3" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="20" y1="11" x2="12" y2="3" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="20" y1="19" x2="12" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="57" y1="11" x2="69" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="4" y1="19" x2="13" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="20" y1="11" x2="32" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="75" y1="11" x2="84" y2="3" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="76" y1="12" x2="68" y2="3" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="76" y1="19" x2="68" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="76" y1="19" x2="84" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> 
+</symbol>
+<symbol id="DollyBreaker:jx小车开关横_1_1" viewBox="0,0,90,22" name="小车开关竖"> 
+<line x1="4" y1="11" x2="31" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="27" y1="3" x2="18" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="56" y1="11" x2="85" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="19" y1="11" x2="27" y2="19" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="21" y1="19" x2="13" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="13" y1="11" x2="22" y2="3" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="65" y1="19" x2="74" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="73" y1="11" x2="65" y2="3" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="69" y1="11" x2="61" y2="3" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="61" y1="19" x2="69" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx110压变4圈2_0" viewBox="0,0,36,30" name="圈压变"> 
+<circle cx="17.5" cy="11.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(240,65,85)" Plane="0" AFMask="32783"/>  
+<circle cx="17.5" cy="19.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(240,65,85)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="15.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(240,65,85)" Plane="0" AFMask="32783"/>  
+<circle cx="27.5" cy="15.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(240,65,85)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx电压互感器3圈3_0" viewBox="0,0,28,30" name="圈压变"> 
+<circle cx="8.5" cy="11.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="19.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="18.5" cy="15.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#13_1" viewBox="0,0,72,74" name="其他"> 
+<circle cx="21.5" cy="49.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="22" y1="50" x2="31" y2="55" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="13" y1="55" x2="22" y2="50" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="22" y1="50" x2="22" y2="40" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#13_0" viewBox="0,0,72,74" name="其他"> 
+<circle cx="21.5" cy="23.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="22" y1="24" x2="22" y2="14" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="13" y1="29" x2="22" y2="24" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="22" y1="24" x2="31" y2="29" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Terminal:jx压变10kV_0" viewBox="0,0,20,36" name="其他"> 
+<circle cx="10" cy="12" r="8" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<circle cx="10" cy="23" r="8" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Breaker:jx开关竖_1" viewBox="0,0,18,36" name="开关竖"> 
+<rect x="2" y="4" width="13" height="26" transform="rotate(0,8,17)" stroke-width="1" stroke="rgb(0,0,255)" fill="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Breaker:jx开关竖_0" viewBox="0,0,18,36" name="开关竖"> 
+<rect x="2" y="4" width="13" height="26" transform="rotate(0,8,17)" stroke-width="1" stroke="rgb(0,0,255)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#13_2" viewBox="0,0,72,74" name="其他"> 
+<circle cx="47.5" cy="36.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/> stroke="rgb(0,0,255)" fill="none" Plane="2" AFMask="32783"/&gt;
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#11_2" viewBox="0,0,66,88" name="其他"> 
+<circle cx="35.5" cy="62.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/>  
+<line x1="36" y1="53" x2="36" y2="63" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/>  
+<line x1="36" y1="63" x2="27" y2="68" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/>  
+<line x1="45" y1="68" x2="36" y2="63" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer2:jx所用变#2_0" viewBox="0,0,34,48" name="变压器"> 
+<circle cx="17" cy="19" r="10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> stroke="rgb(0,0,255)" fill="none" Plane="0" AFMask="32783"/&gt; 
+<line x1="2" y1="32" x2="32" y2="2" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#11_0" viewBox="0,0,66,88" name="其他"> 
+<path d="M 54 13 A 29 21 0 0 0 12 17" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="11" y1="78" x2="64" y2="2" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer2:jx所用变#2_1" viewBox="0,0,34,48" name="变压器"> 
+<circle cx="17" cy="34" r="10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="17" y1="34" x2="17" y2="28" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="17" y1="34" x2="22" y2="37" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="17" y1="34" x2="12" y2="37" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#11_1" viewBox="0,0,66,88" name="其他"> 
+<circle cx="35.5" cy="36.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="36" y1="27" x2="36" y2="37" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="36" y1="37" x2="27" y2="42" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="45" y1="42" x2="36" y2="37" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="36" y1="37" x2="6" y2="37" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="6" y1="33" x2="6" y2="40" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="4" y1="35" x2="4" y2="39" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="2" y1="36" x2="2" y2="38" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> 
+</symbol>
+<symbol id="Ascoil:jx消弧线圈10kV_0" viewBox="0,0,18,52" name="其他"> 
+<path d="M 8 16 A 3 3 0 1 0 8 10" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="30" x2="9" y2="43" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="43" x2="15" y2="43" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<line x1="6" y1="47" x2="12" y2="47" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="50" x2="11" y2="50" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="3" x2="9" y2="10" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<path d="M 8 23 A 3 3 0 1 0 8 17" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<path d="M 8 29 A 3 3 0 1 0 8 23" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="GroundDisconnector:jx地刀竖1_1" viewBox="0,0,14,34" name="地刀竖"> 
+<circle cx="6" cy="5" r="2" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="5" y1="31" x2="7" y2="31" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="4" y1="29" x2="8" y2="29" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="2" y1="27" x2="10" y2="27" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="6" y1="19" x2="6" y2="27" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="6" y1="4" x2="6" y2="19" stroke-width="2" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="4" y1="19" x2="8" y2="19" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Disconnector:jx闸刀横_1" viewBox="0,0,34,14" name="闸刀"> 
+<circle cx="30" cy="9" r="2" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="4" cy="9" r="2" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="4" y1="9" x2="30" y2="9" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="GroundDisconnector:jx地刀竖1_0" viewBox="0,0,14,34" name="地刀竖"> 
+<circle cx="6" cy="5" r="2" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="4" y1="19" x2="8" y2="19" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="11" y1="10" x2="6" y2="19" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="6" y1="19" x2="6" y2="27" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="2" y1="27" x2="10" y2="27" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="4" y1="29" x2="8" y2="29" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="5" y1="31" x2="7" y2="31" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Disconnector:jx闸刀横_0" viewBox="0,0,34,14" name="闸刀"> 
+<circle cx="30" cy="9" r="2" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="4" cy="9" r="2" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="4" y1="9" x2="26" y2="2" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="GZP:z_1" viewBox="0,0,34,34" name="光字牌"> 
+<circle cx="17" cy="17" r="14" stroke-width="1" fill="rgb(255,0,0)" stroke="rgb(255,0,0)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx35压变3圈3_0" viewBox="0,0,28,48" name="圈压变"> 
+<circle cx="8.5" cy="8.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="17.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<circle cx="18.5" cy="12.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="24" x2="9" y2="44" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<rect x="3" y="28" width="12" height="16" transform="rotate(0,9,36)" stroke-width="1" stroke="rgb(255,255,0)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="GZP:z_0" viewBox="0,0,34,34" name="光字牌"> 
+<circle cx="16.5" cy="16.5" r="13.5" stroke-width="2" fill="none" stroke="rgb(0,255,0)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Ascoil:jx_消弧线圈_0" viewBox="0,0,18,52" name="其他"> 
+<path d="M 8 16 A 3 3 0 1 0 8 10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="30" x2="9" y2="43" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="43" x2="15" y2="43" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="6" y1="47" x2="12" y2="47" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="50" x2="11" y2="50" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="3" x2="9" y2="10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<path d="M 8 23 A 3 3 0 1 0 8 17" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<path d="M 8 29 A 3 3 0 1 0 8 23" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#5_2" viewBox="0,0,74,90" name="其他"> 
+<circle cx="48.5" cy="65.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/>  
+<line x1="49" y1="66" x2="49" y2="56" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/>  
+<line x1="40" y1="71" x2="49" y2="66" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/>  
+<line x1="49" y1="66" x2="58" y2="71" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/> 
+</symbol>
+<symbol id="Reactance:jx电感线圈竖_0" viewBox="0,0,50,50" name="其他"> 
+<path d="M 28 33 A 3 3 90 1 0 22 33" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<path d="M 28 20 A 3 3 90 1 0 22 20" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<path d="M 28 26 A 3 3 90 1 0 22 26" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<path d="M 28 14 A 3 3 90 1 0 22 14" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="26" y1="44" x2="26" y2="37" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="26" y1="11" x2="26" y2="4" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#5_1" viewBox="0,0,74,90" name="其他"> 
+<circle cx="23" cy="53" r="16" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> stroke="rgb(0,0,255)" fill="none" Plane="1" AFMask="32783"/&gt; 
+<circle cx="48.5" cy="39.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="14" y1="27" x2="35" y2="27" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="14" y1="24" x2="14" y2="30" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="12" y1="25" x2="12" y2="28" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="11" y1="26" x2="11" y2="28" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="49" y1="40" x2="49" y2="30" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="40" y1="45" x2="49" y2="40" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="49" y1="40" x2="58" y2="45" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#10_0" viewBox="0,0,64,82" name="其他"> 
+<path d="M 54 8 A 29 21 0 0 0 12 12" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#10_2" viewBox="0,0,64,82" name="其他"> 
+<circle cx="35.5" cy="57.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/>  
+<line x1="36" y1="48" x2="36" y2="58" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/>  
+<line x1="36" y1="58" x2="27" y2="63" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/>  
+<line x1="45" y1="63" x2="36" y2="58" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer2:jx所用变#3_1" viewBox="0,0,24,44" name="变压器"> 
+<circle cx="12" cy="29" r="10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="12" y1="29" x2="12" y2="23" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="12" y1="29" x2="17" y2="32" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="12" y1="29" x2="7" y2="32" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#10_1" viewBox="0,0,64,82" name="其他"> 
+<circle cx="35.5" cy="31.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="36" y1="22" x2="36" y2="32" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="36" y1="32" x2="27" y2="37" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="45" y1="37" x2="36" y2="32" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="36" y1="32" x2="6" y2="32" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="6" y1="28" x2="6" y2="35" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="4" y1="30" x2="4" y2="34" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="2" y1="31" x2="2" y2="33" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer2:jx所用变#3_0" viewBox="0,0,24,44" name="变压器"> 
+<circle cx="12" cy="14" r="10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="7" y2="17" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="12" y2="8" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="17" y2="17" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#2_2" viewBox="0,0,72,74" name="其他"> 
+<circle cx="21.5" cy="49.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/> stroke="rgb(0,0,255)" fill="none" Plane="2" AFMask="32783"/&gt;
+</symbol>
+<symbol id="Terminal:jx_接地电阻_0" viewBox="0,0,14,34" name="其他"> 
+<rect x="2" y="3" width="10" height="22" transform="rotate(0,7,14)" stroke-width="1" stroke="rgb(0,0,255)" fill="none" Plane="0" AFMask="32783"/>  
+<line x1="4" y1="29" x2="11" y2="29" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="5" y1="31" x2="9" y2="31" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="6" y1="33" x2="8" y2="33" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="29" x2="7" y2="25" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#2_1" viewBox="0,0,72,74" name="其他"> 
+<circle cx="47.5" cy="36.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="48" y1="37" x2="48" y2="27" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="39" y1="42" x2="48" y2="37" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="48" y1="37" x2="57" y2="42" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#5_0" viewBox="0,0,74,90" name="其他"> 
+<path d="M 70 21 A 29 29 0 0 0 28 22" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="2" y1="69" x2="69" y2="2" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="37" y1="46" x2="37" y2="46" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Terminal:jx_接地_0" viewBox="0,0,18,12" name="其他"> 
+<line x1="3" y1="4" x2="16" y2="4" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="5" y1="7" x2="13" y2="7" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="10" x2="11" y2="10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Reactance:jx电抗器_0" viewBox="0,0,24,42" name="其他"> 
+<circle cx="12" cy="3" r="2" stroke-width="1" fill="none" stroke="rgb(128,128,128)" Plane="0" AFMask="32783"/>  
+<path d="M 2 19 A 10 10 271 1 0 12 9" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32799"/>  
+<path d="M 1 18 L 3 18 L 11 18 L 11 2 L 11 5 " stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32799"/>  
+<line x1="12" y1="29" x2="12" y2="37" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#2_0" viewBox="0,0,72,74" name="其他"> 
+<circle cx="21.5" cy="23.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="22" y1="24" x2="22" y2="14" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="13" y1="29" x2="22" y2="24" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="22" y1="24" x2="31" y2="29" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#3_2" viewBox="0,0,78,76" name="其他"> 
+<circle cx="27.5" cy="51.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/> stroke="rgb(0,0,255)" fill="none" Plane="2" AFMask="32783"/&gt;
+</symbol>
+<symbol id="Breaker:jx开关横_1" viewBox="0,0,34,18" name="开关竖"> 
+<rect x="4" y="3" width="26" height="13" transform="rotate(0,17,9)" stroke-width="1" stroke="rgb(0,0,255)" fill="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#3_1" viewBox="0,0,78,76" name="其他"> 
+<circle cx="53.5" cy="38.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="54" y1="39" x2="54" y2="29" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="45" y1="44" x2="54" y2="39" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="54" y1="39" x2="63" y2="44" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> 
+</symbol>
+<symbol id="Breaker:jx开关横_0" viewBox="0,0,34,18" name="开关竖"> 
+<rect x="4" y="3" width="26" height="13" transform="rotate(0,17,9)" stroke-width="1" stroke="rgb(0,0,255)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#4_1" viewBox="0,0,72,82" name="其他"> 
+<circle cx="21.5" cy="43.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> stroke="rgb(0,0,255)" fill="none" Plane="1" AFMask="32783"/&gt; 
+<circle cx="47.5" cy="30.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="13" y1="18" x2="34" y2="18" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="11" y1="16" x2="11" y2="19" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="13" y1="15" x2="13" y2="21" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="10" y1="17" x2="10" y2="19" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="48" y1="31" x2="48" y2="21" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="39" y1="36" x2="48" y2="31" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="48" y1="31" x2="57" y2="36" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#3_0" viewBox="0,0,78,76" name="其他"> 
+<circle cx="27.5" cy="25.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="28" y1="26" x2="28" y2="16" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="19" y1="31" x2="28" y2="26" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="28" y1="26" x2="37" y2="31" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="2" y1="60" x2="59" y2="3" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#4_0" viewBox="0,0,72,82" name="其他"> 
+<path d="M 69 12 A 29 29 0 0 0 27 13" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#4_2" viewBox="0,0,72,82" name="其他"> 
+<circle cx="47.5" cy="56.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/>  
+<line x1="48" y1="57" x2="48" y2="47" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/>  
+<line x1="39" y1="62" x2="48" y2="57" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/>  
+<line x1="48" y1="57" x2="57" y2="62" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/> 
+</symbol>
+<symbol id="Compensator:jx电容一个端点2_0" viewBox="0,0,26,14" name="电容器"> 
+<line x1="3" y1="5" x2="23" y2="5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="11" x2="23" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#1_1" viewBox="0,0,72,74" name="其他"> 
+<circle cx="47.5" cy="36.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> stroke="rgb(0,0,255)" fill="none" Plane="1" AFMask="32783"/&gt;
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#1_2" viewBox="0,0,72,74" name="其他"> 
+<circle cx="21.5" cy="49.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/>  
+<line x1="22" y1="50" x2="22" y2="40" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/>  
+<line x1="13" y1="55" x2="22" y2="50" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/>  
+<line x1="22" y1="50" x2="31" y2="55" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/> 
+</symbol>
+<symbol id="Disconnector:jx接地小车_1" viewBox="0,0,18,50" name="闸刀"> 
+<circle cx="9" cy="38" r="2" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="19" x2="9" y2="38" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="28" x2="2" y2="35" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="22" x2="2" y2="29" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="15" y1="29" x2="9" y2="22" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="15" y1="35" x2="9" y2="28" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="4" y1="8" x2="13" y2="8" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="4" x2="11" y2="4" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="24" x2="9" y2="12" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="1" y1="12" x2="16" y2="12" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Terminal:jx_阻抗_0" viewBox="0,0,24,50" name="其他"> 
+<path d="M 11 21 A 7 7 0 1 0 4 14" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<path d="M 4 14 L 11 14 L 11 3 " stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<rect x="8" y="27" width="6" height="13" transform="rotate(0,11,33)" stroke-width="1" stroke="rgb(0,0,255)" fill="none" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="45" x2="15" y2="45" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="8" y1="47" x2="14" y2="47" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="49" x2="13" y2="49" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="11" y1="21" x2="11" y2="27" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="11" y1="40" x2="11" y2="45" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Disconnector:jx接地小车_0" viewBox="0,0,18,50" name="闸刀"> 
+<line x1="9" y1="32" x2="2" y2="38" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="32" x2="2" y2="26" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="15" y1="32" x2="9" y2="26" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="15" y1="32" x2="9" y2="38" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="1" y1="14" x2="16" y2="14" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="4" y1="10" x2="13" y2="10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="6" x2="11" y2="6" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="26" x2="9" y2="14" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#7_0" viewBox="0,0,72,90" name="其他"> 
+<path d="M 68 21 A 29 29 0 0 0 26 22" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="2" y1="67" x2="67" y2="2" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="35" y1="46" x2="35" y2="46" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#7_1" viewBox="0,0,72,90" name="其他"> 
+<circle cx="21" cy="53" r="16" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> stroke="rgb(0,0,255)" fill="none" Plane="1" AFMask="32783"/&gt; 
+<circle cx="46.5" cy="39.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="12" y1="27" x2="33" y2="27" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="10" y1="25" x2="10" y2="28" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="9" y1="26" x2="9" y2="28" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="12" y1="24" x2="12" y2="30" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="47" y1="40" x2="47" y2="30" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="38" y1="45" x2="47" y2="40" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="47" y1="40" x2="56" y2="45" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#7_2" viewBox="0,0,72,90" name="其他"> 
+<circle cx="46.5" cy="65.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/>  
+<line x1="47" y1="66" x2="47" y2="56" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/>  
+<line x1="38" y1="71" x2="47" y2="66" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/>  
+<line x1="47" y1="66" x2="56" y2="71" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/> 
+</symbol>
+<symbol id="Arrester:jx避雷器110_0" viewBox="0,0,14,34" name="避雷器"> 
+<rect x="3" y="4" width="9" height="18" transform="rotate(0,7,13)" stroke-width="1" stroke="rgb(240,65,85)" fill="none" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="4" x2="7" y2="7" stroke-width="1" fill="none" stroke="rgb(240,65,85)" Plane="0" AFMask="32783"/>  
+<polygon points="5,7 7,14 9,7" stroke-width="1" stroke="rgb(240,65,85)" fill="rgb(240,65,85)" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="23" x2="7" y2="27" stroke-width="1" fill="none" stroke="rgb(240,65,85)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="27" x2="11" y2="27" stroke-width="1" fill="none" stroke="rgb(240,65,85)" Plane="0" AFMask="32783"/>  
+<line x1="4" y1="29" x2="10" y2="29" stroke-width="1" fill="none" stroke="rgb(240,65,85)" Plane="0" AFMask="32783"/>  
+<line x1="6" y1="31" x2="9" y2="31" stroke-width="1" fill="none" stroke="rgb(240,65,85)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx10kV压变3圈_0" viewBox="0,0,28,48" name="圈压变"> 
+<circle cx="8.5" cy="8.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<circle cx="12.5" cy="16.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<circle cx="18.5" cy="8.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<line x1="13" y1="23" x2="13" y2="43" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<rect x="7" y="27" width="12" height="16" transform="rotate(0,13,35)" stroke-width="1" stroke="rgb(85,85,255)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈变压器#1_0" viewBox="0,0,72,74" name="其他"> 
+<circle cx="21.5" cy="23.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="22" y1="24" x2="22" y2="14" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="13" y1="29" x2="22" y2="24" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="22" y1="24" x2="31" y2="29" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="GZP:jx光字牌_1" viewBox="0,0,34,34" name="光字牌"> 
+<circle cx="17" cy="17" r="14" stroke-width="1" fill="rgb(255,0,0)" stroke="rgb(255,0,0)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer2:jx_两圈变压器（有载调压）_1" viewBox="0,0,46,86" name="变压器"> 
+<circle cx="23.5" cy="60.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> stroke="rgb(0,0,255)" fill="none" Plane="1" AFMask="32783"/&gt;
+</symbol>
+<symbol id="GZP:jx光字牌_0" viewBox="0,0,34,34" name="光字牌"> 
+<circle cx="16.5" cy="16.5" r="13.5" stroke-width="2" fill="none" stroke="rgb(0,255,0)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx电压互感器4圈2_0" viewBox="0,0,36,30" name="圈压变"> 
+<circle cx="17.5" cy="11.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="17.5" cy="19.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="15.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="27.5" cy="15.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Arrester:jx避雷器220_0" viewBox="0,0,14,34" name="避雷器"> 
+<rect x="3" y="4" width="9" height="18" transform="rotate(0,7,13)" stroke-width="1" stroke="rgb(128,0,128)" fill="none" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="4" x2="7" y2="7" stroke-width="1" fill="none" stroke="rgb(128,0,128)" Plane="0" AFMask="32783"/>  
+<polygon points="5,7 7,14 9,7" stroke-width="1" stroke="rgb(128,0,128)" fill="rgb(128,0,128)" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="23" x2="7" y2="27" stroke-width="1" fill="none" stroke="rgb(128,0,128)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="27" x2="11" y2="27" stroke-width="1" fill="none" stroke="rgb(128,0,128)" Plane="0" AFMask="32783"/>  
+<line x1="4" y1="29" x2="10" y2="29" stroke-width="1" fill="none" stroke="rgb(128,0,128)" Plane="0" AFMask="32783"/>  
+<line x1="6" y1="31" x2="9" y2="31" stroke-width="1" fill="none" stroke="rgb(128,0,128)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx_线路压变5_0" viewBox="0,0,48,40" name="圈压变"> 
+<circle cx="24.5" cy="24.5" r="4.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="17.5" cy="28.5" r="4.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="24.5" cy="31.5" r="4.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="31.5" cy="28.5" r="4.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="11" y1="2" x2="11" y2="12" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="11" y1="7" x2="39" y2="7" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="7" x2="8" y2="7" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="8" y1="2" x2="8" y2="12" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="42" y1="2" x2="42" y2="12" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="39" y1="2" x2="39" y2="12" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="25" y1="20" x2="25" y2="7" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈500_0" viewBox="0,0,46,86" name="其他"> 
+<line x1="24" y1="10" x2="24" y2="4" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<path d="M 24 10 A 25 25 0 0 0 4 34" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Arrester:jx避雷器加接地横_0" viewBox="0,0,34,14" name="避雷器"> 
+<rect x="9" y="-2" width="9" height="18" transform="rotate(90,13,7)" stroke-width="1" stroke="rgb(0,0,255)" fill="none" Plane="0" AFMask="32783"/>  
+<line x1="6" y1="7" x2="4" y2="7" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<polygon points="7,3 11,6 7,10" stroke-width="1" stroke="rgb(0,0,255)" fill="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="27" y1="7" x2="22" y2="7" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="27" y1="3" x2="27" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="29" y1="4" x2="29" y2="10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="30" y1="6" x2="30" y2="9" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈500_1" viewBox="0,0,46,86" name="其他"> 
+<circle cx="23.5" cy="34.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="2" y1="48" x2="43" y2="7" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="24" y1="35" x2="24" y2="25" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="15" y1="40" x2="24" y2="35" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="24" y1="35" x2="33" y2="40" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer3:jx三圈500_2" viewBox="0,0,46,86" name="其他">stroke="rgb(0,0,255)" fill="none" Plane="2" AFMask="32783"/&gt; 
+<circle cx="23.5" cy="60.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="2" AFMask="32783"/> 
+</symbol>
+<symbol id="Reactance:jx_阻抗_0" viewBox="0,0,24,42" name="其他"> 
+<circle cx="12" cy="3" r="2" stroke-width="1" fill="none" stroke="rgb(128,128,128)" Plane="0" AFMask="32783"/>  
+<path d="M 2 19 A 10 10 271 1 0 12 9" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32799"/>  
+<path d="M 1 18 L 3 18 L 11 18 L 11 2 L 11 5 " stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32799"/>  
+<line x1="12" y1="29" x2="12" y2="37" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer2:jx_两圈变压器（有载调压）_0" viewBox="0,0,46,86" name="变压器"> 
+<circle cx="23.5" cy="34.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="24" y1="35" x2="24" y2="25" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="15" y1="40" x2="24" y2="35" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="24" y1="35" x2="33" y2="40" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="2" y1="48" x2="43" y2="7" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Breaker:jx遥控开关_1" viewBox="0,0,34,18" name="开关竖"> 
+<rect x="4" y="3" width="26" height="13" transform="rotate(0,17,9)" stroke-width="1" stroke="rgb(0,0,255)" fill="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx110压变3圈2_0" viewBox="0,0,28,30" name="圈压变"> 
+<circle cx="8.5" cy="11.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(240,65,85)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="19.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(240,65,85)" Plane="0" AFMask="32783"/>  
+<circle cx="18.5" cy="15.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(240,65,85)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Arrester:jx避雷器10_0" viewBox="0,0,14,34" name="避雷器"> 
+<rect x="3" y="4" width="9" height="18" transform="rotate(0,7,13)" stroke-width="1" stroke="rgb(85,85,255)" fill="none" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="4" x2="7" y2="7" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<polygon points="5,7 7,14 9,7" stroke-width="1" stroke="rgb(85,85,255)" fill="rgb(185,72,66)" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="23" x2="7" y2="27" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="27" x2="11" y2="27" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<line x1="4" y1="29" x2="10" y2="29" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<line x1="6" y1="31" x2="9" y2="31" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Breaker:jx遥控开关_0" viewBox="0,0,34,18" name="开关竖"> 
+<rect x="4" y="3" width="26" height="13" transform="rotate(0,17,9)" stroke-width="1" stroke="rgb(0,0,255)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Reactance:串联电抗_0" viewBox="0,0,24,42" name="其他"> 
+<path d="M 2 19 A 10 10 271 1 0 12 9" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32799"/>  
+<path d="M 1 18 L 3 18 L 11 18 L 11 2 L 11 5 " stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32799"/>  
+<line x1="12" y1="29" x2="12" y2="37" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx_3圈压变2_0" viewBox="0,0,28,48" name="圈压变"> 
+<circle cx="8.5" cy="8.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="17.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="18.5" cy="12.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="24" x2="9" y2="44" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<rect x="3" y="28" width="12" height="16" transform="rotate(0,9,36)" stroke-width="1" stroke="rgb(0,0,255)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx_线路压变3_0" viewBox="0,0,42,48" name="圈压变"> 
+<circle cx="21.5" cy="39" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="34" y1="8" x2="10" y2="8" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="22" y1="22" x2="22" y2="8" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="6" y1="2" x2="6" y2="14" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="37" y1="14" x2="37" y2="2" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="34" y1="14" x2="34" y2="2" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="24" y1="28" x2="19" y2="28" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="2" x2="10" y2="14" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="2" y1="8" x2="6" y2="8" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="21.5" cy="29" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="24" y1="39" x2="19" y2="39" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer2:jx系统接线两圈变压器2_0" viewBox="0,0,44,74" name="变压器"> 
+<circle cx="21.5" cy="23.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="22" y1="24" x2="22" y2="14" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="13" y1="29" x2="22" y2="24" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="22" y1="24" x2="31" y2="29" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx压变4_0" viewBox="0,0,36,48" name="圈压变"> 
+<circle cx="17.5" cy="8.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<circle cx="17.5" cy="17.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="13.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<circle cx="27.5" cy="12.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<line x1="18" y1="24" x2="18" y2="44" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<rect x="12" y="28" width="12" height="16" transform="rotate(0,18,36)" stroke-width="1" stroke="rgb(85,85,255)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="DollyBreaker:jx小车开关横_0_2" viewBox="0,0,90,22" name="小车开关竖"> 
+<rect x="31" y="5" width="26" height="13" transform="rotate(0,44,11)" stroke-width="1" stroke="rgb(0,0,255)" fill="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="DollyBreaker:jx小车开关横_0_3" viewBox="0,0,90,22" name="小车开关竖"> 
+<rect x="31" y="5" width="26" height="13" transform="rotate(0,44,11)" stroke-width="1" stroke="rgb(0,0,255)" fill="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="DollyBreaker:jx小车开关横_0_0" viewBox="0,0,90,22" name="小车开关竖"> 
+<rect x="31" y="5" width="26" height="13" transform="rotate(0,44,11)" stroke-width="1" stroke="rgb(0,0,255)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="DollyBreaker:jx小车开关横_0_1" viewBox="0,0,90,22" name="小车开关竖"> 
+<rect x="31" y="5" width="26" height="13" transform="rotate(0,44,11)" stroke-width="1" stroke="rgb(0,0,255)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Fuse:jx高压熔断器2_0" viewBox="0,0,18,42" name="其他"> 
+<rect x="2" y="8" width="13" height="26" transform="rotate(0,8,21)" stroke-width="1" stroke="rgb(255,255,0)" fill="none" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="34" x2="9" y2="8" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="DollyBreaker:jx小车开关竖_1_1" viewBox="0,0,22,90" name="小车开关竖"> 
+<line x1="11" y1="4" x2="11" y2="32" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="11" y1="15" x2="3" y2="23" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="11" y1="57" x2="11" y2="85" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="11" y1="16" x2="19" y2="24" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="19" y1="18" x2="11" y2="10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="3" y1="18" x2="11" y2="10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="11" y1="78" x2="19" y2="70" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="11" y1="78" x2="3" y2="70" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="11" y1="71" x2="3" y2="63" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="11" y1="71" x2="19" y2="63" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> 
+</symbol>
+<symbol id="Disconnector:jx手车闸刀_0" viewBox="0,0,18,28" name="闸刀"> 
+<line x1="9" y1="13" x2="2" y2="19" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="13" x2="2" y2="7" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="15" y1="13" x2="9" y2="7" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="15" y1="13" x2="9" y2="19" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Disconnector:jx手车闸刀_1" viewBox="0,0,18,28" name="闸刀"> 
+<circle cx="9" cy="4" r="2" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="9" cy="23" r="2" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="4" x2="9" y2="23" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="13" x2="2" y2="20" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="7" x2="2" y2="14" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="15" y1="14" x2="9" y2="7" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="15" y1="20" x2="9" y2="13" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="DollyBreaker:jx小车开关竖_1_0" viewBox="0,0,22,90" name="小车开关竖"> 
+<line x1="11" y1="20" x2="11" y2="32" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="3" y1="20" x2="11" y2="12" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="11" y1="12" x2="3" y2="4" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="19" y1="12" x2="11" y2="4" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="11" y1="20" x2="19" y2="12" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="3" y1="77" x2="11" y2="69" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="11" y1="85" x2="3" y2="77" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="19" y1="85" x2="11" y2="77" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="11" y1="77" x2="19" y2="69" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="11" y1="57" x2="11" y2="69" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> 
+</symbol>
+<symbol id="Breaker:jx软压板_1" viewBox="0,0,28,16" name="开关竖"> 
+<circle cx="4" cy="12" r="2" stroke-width="1" fill="rgb(0,0,255)" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="24" cy="12" r="2" stroke-width="1" fill="rgb(0,0,255)" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<rect x="4" y="10" width="20" height="4" transform="rotate(0,14,12)" stroke-width="1" stroke="rgb(0,0,255)" fill="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Breaker:jx软压板_0" viewBox="0,0,28,16" name="开关竖"> 
+<circle cx="4" cy="12" r="2" stroke-width="1" fill="rgb(0,0,255)" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="24" cy="12" r="2" stroke-width="1" fill="rgb(0,0,255)" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<rect x="3" y="6" width="20" height="4" transform="rotate(334,13,8)" stroke-width="1" stroke="rgb(0,0,255)" fill="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="21.5" cy="3.5" r="1.5" stroke-width="1" fill="rgb(0,0,255)" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Disconnector:jx闸刀竖_0" viewBox="0,0,12,34" name="闸刀"> 
+<circle cx="4" cy="4" r="2" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="4" cy="30" r="2" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="4" y1="30" x2="9" y2="12" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Disconnector:jx闸刀竖_1" viewBox="0,0,12,34" name="闸刀"> 
+<circle cx="4" cy="30" r="2" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="4" y1="4" x2="4" y2="30" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="4" cy="4" r="2" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="DollyBreaker:jx小车开关竖_0_1" viewBox="0,0,22,90" name="小车开关竖"> 
+<rect x="-2" y="38" width="26" height="13" transform="rotate(90,11,44)" stroke-width="1" stroke="rgb(0,0,255)" fill="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="DollyBreaker:jx小车开关竖_0_0" viewBox="0,0,22,90" name="小车开关竖"> 
+<rect x="-2" y="38" width="26" height="13" transform="rotate(90,11,44)" stroke-width="1" stroke="rgb(0,0,255)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx10kV压变3圈2_0" viewBox="0,0,28,28" name="圈压变"> 
+<circle cx="8.5" cy="8.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<circle cx="12.5" cy="16.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<circle cx="18.5" cy="8.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Ascoil:jx消弧线圈35kV_0" viewBox="0,0,18,52" name="其他"> 
+<path d="M 8 16 A 3 3 0 1 0 8 10" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="30" x2="9" y2="43" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="43" x2="15" y2="43" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="6" y1="47" x2="12" y2="47" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="50" x2="11" y2="50" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="3" x2="9" y2="10" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<path d="M 8 23 A 3 3 0 1 0 8 17" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<path d="M 8 29 A 3 3 0 1 0 8 23" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Arrester:jx_避雷器_0" viewBox="0,0,14,34" name="避雷器"> 
+<rect x="3" y="4" width="9" height="18" transform="rotate(0,7,13)" stroke-width="1" stroke="rgb(0,0,255)" fill="none" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="4" x2="7" y2="7" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<polygon points="5,7 7,14 9,7" stroke-width="1" stroke="rgb(0,0,255)" fill="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="23" x2="7" y2="27" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="27" x2="11" y2="27" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="4" y1="29" x2="10" y2="29" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="6" y1="31" x2="9" y2="31" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx110压变4圈1_0" viewBox="0,0,36,28" name="圈压变"> 
+<circle cx="17.5" cy="8.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(240,65,85)" Plane="0" AFMask="32783"/>  
+<circle cx="17.5" cy="17.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(240,65,85)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="13.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(240,65,85)" Plane="0" AFMask="32783"/>  
+<circle cx="27.5" cy="12.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(240,65,85)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Terminal:jx所用变#335_0" viewBox="0,0,24,44" name="其他"> 
+<circle cx="12" cy="14" r="10" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="7" y2="17" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="12" y2="8" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="17" y2="17" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<circle cx="12" cy="29" r="10" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="29" x2="7" y2="32" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="29" x2="17" y2="32" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="29" x2="12" y2="23" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx_4圈压变_0" viewBox="0,0,36,30" name="圈压变"> 
+<circle cx="17.5" cy="11.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="17.5" cy="19.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="15.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="27.5" cy="15.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="GroundDisconnector:jx接地闸刀_1" viewBox="0,0,40,14" name="地刀竖"> 
+<line x1="26" y1="7" x2="12" y2="7" stroke-width="2" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32799"/>  
+<line x1="4" y1="7" x2="12" y2="7" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="26" y1="9" x2="26" y2="5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="33" y1="7" x2="26" y2="7" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32863"/>  
+<line x1="33" y1="11" x2="33" y2="4" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32863"/>  
+<line x1="35" y1="10" x2="35" y2="5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32863"/>  
+<line x1="37" y1="9" x2="37" y2="6" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32863"/> 
+</symbol>
+<symbol id="GroundDisconnector:jx接地闸刀_0" viewBox="0,0,40,14" name="地刀竖"> 
+<line x1="33" y1="7" x2="26" y2="7" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32863"/>  
+<line x1="33" y1="10" x2="33" y2="3" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32863"/>  
+<line x1="35" y1="9" x2="35" y2="4" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32863"/>  
+<line x1="37" y1="8" x2="37" y2="5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32863"/>  
+<line x1="17" y1="3" x2="26" y2="7" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32799"/>  
+<line x1="4" y1="7" x2="12" y2="7" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="26" y1="9" x2="26" y2="5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx_3圈压变_0" viewBox="0,0,28,28" name="圈压变"> 
+<circle cx="8.5" cy="8.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="17.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="18.5" cy="12.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Compensator:jx电容横_0" viewBox="0,0,32,22" name="电容器"> 
+<line x1="2" y1="5" x2="28" y2="5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="2" y1="18" x2="28" y2="18" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Arrester:jx避雷器35_0" viewBox="0,0,14,34" name="避雷器"> 
+<rect x="3" y="4" width="9" height="18" transform="rotate(0,7,13)" stroke-width="1" stroke="rgb(255,255,0)" fill="none" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="4" x2="7" y2="7" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<polygon points="5,7 7,14 9,7" stroke-width="1" stroke="rgb(255,255,0)" fill="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="23" x2="7" y2="27" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="27" x2="11" y2="27" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="4" y1="29" x2="10" y2="29" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="6" y1="31" x2="9" y2="31" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer2:jx系统接线两圈变压器2_1" viewBox="0,0,44,74" name="变压器"> 
+<circle cx="21.5" cy="49.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<polygon points="14,61 22,46 30,61" stroke-width="1" stroke="rgb(0,0,255)" fill="none" Plane="1" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx220压变4圈2_0" viewBox="0,0,36,30" name="圈压变"> 
+<circle cx="17.5" cy="11.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(128,0,128)" Plane="0" AFMask="32783"/>  
+<circle cx="17.5" cy="19.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(128,0,128)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="15.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(128,0,128)" Plane="0" AFMask="32783"/>  
+<circle cx="27.5" cy="15.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(128,0,128)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx20kv压变3圈_0" viewBox="0,0,28,48" name="圈压变"> 
+<circle cx="8.5" cy="8.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(146,255,122)" Plane="0" AFMask="32783"/>  
+<circle cx="12.5" cy="16.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(146,255,122)" Plane="0" AFMask="32783"/>  
+<circle cx="18.5" cy="8.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(146,255,122)" Plane="0" AFMask="32783"/>  
+<line x1="13" y1="23" x2="13" y2="43" stroke-width="1" fill="none" stroke="rgb(146,255,122)" Plane="0" AFMask="32783"/>  
+<rect x="7" y="27" width="12" height="16" transform="rotate(0,13,35)" stroke-width="1" stroke="rgb(146,255,122)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Disconnector:jx小车闸刀柜_0" viewBox="0,0,20,70" name="闸刀"> 
+<line x1="10" y1="18" x2="10" y2="53" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="5" x2="17" y2="12" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="18" x2="17" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="59" x2="10" y2="52" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="66" x2="3" y2="59" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="18" x2="10" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="5" x2="10" y2="12" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="17" y1="66" x2="10" y2="59" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="59" x2="17" y2="52" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="5" x2="10" y2="3" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="66" x2="10" y2="68" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx35压变2圈1_0" viewBox="0,0,18,48" name="圈压变"> 
+<circle cx="8.5" cy="39.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="30.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="24" x2="9" y2="4" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<rect x="3" y="4" width="12" height="16" transform="rotate(360,9,12)" stroke-width="1" stroke="rgb(255,255,0)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Disconnector:jx小车闸刀柜_1" viewBox="0,0,20,70" name="闸刀"> 
+<line x1="10" y1="61" x2="3" y2="54" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="66" x2="3" y2="59" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="66" x2="17" y2="59" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="61" x2="17" y2="54" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="5" x2="17" y2="12" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="10" x2="17" y2="17" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="17" x2="10" y2="10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="12" x2="10" y2="5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="3" x2="10" y2="67" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx_线路压变2_0" viewBox="0,0,34,40" name="圈压变"> 
+<circle cx="6.5" cy="15.5" r="4.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="26" y1="28" x2="26" y2="8" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="12.5" cy="18.5" r="4.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="6.5" cy="21.5" r="4.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="18" y1="19" x2="26" y2="19" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="20" y1="8" x2="32" y2="8" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="20" y1="4" x2="32" y2="4" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="20" y1="32" x2="32" y2="32" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="20" y1="28" x2="32" y2="28" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="26" y1="32" x2="26" y2="37" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx35压变3圈1_0" viewBox="0,0,28,28" name="圈压变"> 
+<circle cx="8.5" cy="8.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="17.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/>  
+<circle cx="18.5" cy="12.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,255,0)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Disconnector:jx小车闸刀柜#2_1" viewBox="0,0,20,70" name="闸刀"> 
+<line x1="10" y1="61" x2="3" y2="54" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="66" x2="3" y2="59" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="66" x2="17" y2="59" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="61" x2="17" y2="54" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="5" x2="17" y2="12" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="10" x2="17" y2="17" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="17" x2="10" y2="10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="12" x2="10" y2="5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="3" x2="10" y2="67" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<rect x="5" y="24" width="10" height="22" transform="rotate(0,10,35)" stroke-width="1" stroke="rgb(0,0,255)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer2:jx两圈变压器_0" viewBox="0,0,44,74" name="变压器"> 
+<circle cx="21.5" cy="23.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="22" y1="24" x2="22" y2="14" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="13" y1="29" x2="22" y2="24" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="22" y1="24" x2="31" y2="29" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Disconnector:jx小车闸刀柜#2_0" viewBox="0,0,20,70" name="闸刀"> 
+<line x1="10" y1="18" x2="10" y2="53" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="5" x2="17" y2="12" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="18" x2="17" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="59" x2="10" y2="52" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="66" x2="3" y2="59" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="18" x2="10" y2="11" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="5" x2="10" y2="12" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="17" y1="66" x2="10" y2="59" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="59" x2="17" y2="52" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="5" x2="10" y2="3" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="10" y1="66" x2="10" y2="68" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<rect x="5" y="24" width="10" height="22" transform="rotate(0,10,35)" stroke-width="1" stroke="rgb(0,0,255)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer2:jx接地变1端子_0" viewBox="0,0,24,26" name="变压器"> 
+<circle cx="12" cy="14" r="10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="7" y2="17" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="12" y2="8" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="17" y2="17" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer2:jx两圈变压器_1" viewBox="0,0,44,74" name="变压器"> 
+<circle cx="21.5" cy="49.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> stroke="rgb(0,0,255)" fill="none" Plane="1" AFMask="32783"/&gt;
+</symbol>
+<symbol id="Arrester:jx避雷器20_0" viewBox="0,0,14,34" name="避雷器"> 
+<rect x="3" y="4" width="9" height="18" transform="rotate(0,7,13)" stroke-width="1" stroke="rgb(146,255,122)" fill="none" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="4" x2="7" y2="7" stroke-width="1" fill="none" stroke="rgb(146,255,122)" Plane="0" AFMask="32783"/>  
+<polygon points="5,7 7,14 9,7" stroke-width="1" stroke="rgb(146,255,122)" fill="rgb(185,72,66)" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="23" x2="7" y2="27" stroke-width="1" fill="none" stroke="rgb(146,255,122)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="27" x2="11" y2="27" stroke-width="1" fill="none" stroke="rgb(146,255,122)" Plane="0" AFMask="32783"/>  
+<line x1="4" y1="29" x2="10" y2="29" stroke-width="1" fill="none" stroke="rgb(146,255,122)" Plane="0" AFMask="32783"/>  
+<line x1="6" y1="31" x2="9" y2="31" stroke-width="1" fill="none" stroke="rgb(146,255,122)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx220压变4圈1_0" viewBox="0,0,36,28" name="圈压变"> 
+<circle cx="17.5" cy="8.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(128,0,128)" Plane="0" AFMask="32783"/>  
+<circle cx="17.5" cy="17.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(128,0,128)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="13.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(128,0,128)" Plane="0" AFMask="32783"/>  
+<circle cx="27.5" cy="12.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(128,0,128)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Reactance:jx电感线圈_0" viewBox="0,0,50,50" name="其他"> 
+<path d="M 19 19 A 3 3 0 1 0 13 19" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<path d="M 25 19 A 3 3 0 1 0 19 19" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<path d="M 31 19 A 3 3 0 1 0 25 19" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<path d="M 38 19 A 3 3 0 1 0 32 19" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="13" y1="19" x2="6" y2="19" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="45" y1="19" x2="38" y2="19" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx压变2圈10kV_0" viewBox="0,0,18,48" name="圈压变"> 
+<circle cx="8.5" cy="39.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="30.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<line x1="9" y1="24" x2="9" y2="4" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<rect x="3" y="4" width="12" height="16" transform="rotate(360,9,12)" stroke-width="1" stroke="rgb(85,85,255)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer2:jx接地变2端子_0" viewBox="0,0,24,40" name="变压器"> 
+<circle cx="12" cy="14" r="10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="7" y2="17" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="12" y2="8" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="14" x2="17" y2="17" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="12" cy="28" r="10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="28" x2="17" y2="31" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="28" x2="7" y2="31" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="12" y1="28" x2="12" y2="22" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer2:jx所用变_1" viewBox="0,0,24,44" name="变压器"> 
+<circle cx="12" cy="29" r="10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="12" y1="29" x2="12" y2="23" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="12" y1="29" x2="17" y2="32" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/>  
+<line x1="12" y1="29" x2="7" y2="32" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="1" AFMask="32783"/> 
+</symbol>
+<symbol id="Transformer2:jx所用变_0" viewBox="0,0,24,44" name="变压器"> 
+<circle cx="12" cy="14" r="10" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> stroke="rgb(0,0,255)" fill="none" Plane="0" AFMask="32783"/&gt;
+</symbol>
+<symbol id="PT:jx4圈500_0" viewBox="0,0,36,28" name="圈压变"> 
+<circle cx="17.5" cy="8.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,0,0)" Plane="0" AFMask="32783"/>  
+<circle cx="17.5" cy="17.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,0,0)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="13.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,0,0)" Plane="0" AFMask="32783"/>  
+<circle cx="27.5" cy="12.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(255,0,0)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="SynchronousMachine:jx发电机_0" viewBox="0,0,44,46" name="其他"> 
+<circle cx="21.5" cy="24.5" r="19.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<path d="M 24 28 A 7 5 0 0 0 34 30" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<text x="18" y="24" font-size="12" font-width="16" font-height="12" font-family="SimSun" fill="rgb(0,255,0)" stroke="rgb(0,0,255)" writing-mode="lr" Plane="0" AFMask="32783">G</text>  
+<path d="M 20 27 A 7 5 360 0 0 9 30" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Compensator:jx电容一个端点_0" viewBox="0,0,32,20" name="电容器"> 
+<line x1="2" y1="3" x2="28" y2="3" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="2" y1="16" x2="28" y2="16" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Protect:jx远方就地_0" viewBox="0,0,30,30" name="远方就地"> 
+<circle cx="15" cy="15" r="10" stroke-width="2" fill="rgb(0,255,0)" stroke="rgb(0,255,0)" Plane="0" AFMask="32783"/>  
+<text x="8" y="25" font-size="17" font-width="27" font-height="17" font-family="SimSun" fill="rgb(0,255,0)" stroke="rgb(0,0,0)" writing-mode="lr" Plane="0" AFMask="32783">R</text> 
+</symbol>
+<symbol id="Protect:jx远方就地_1" viewBox="0,0,30,30" name="远方就地"> 
+<circle cx="15" cy="15" r="10" stroke-width="2" fill="rgb(255,0,0)" stroke="rgb(255,0,0)" Plane="0" AFMask="32783"/>  
+<text x="9" y="25" font-size="17" font-width="27" font-height="17" font-family="SimSun" fill="rgb(0,255,0)" stroke="rgb(0,0,0)" writing-mode="lr" Plane="0" AFMask="32783">L</text> 
+</symbol>
+<symbol id="Breaker:jx_接地电阻_0" viewBox="0,0,18,36" name="开关竖"> 
+<rect x="2" y="4" width="13" height="26" transform="rotate(0,8,17)" stroke-width="1" stroke="rgb(170,255,0)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx10kV4圈_0" viewBox="0,0,36,28" name="圈压变"> 
+<circle cx="17.5" cy="8.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<circle cx="17.5" cy="17.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="13.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/>  
+<circle cx="27.5" cy="12.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(85,85,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Breaker:jx_接地电阻_1" viewBox="0,0,18,36" name="开关竖"> 
+<rect x="2" y="4" width="13" height="26" transform="rotate(0,8,17)" stroke-width="1" stroke="rgb(0,0,255)" fill="rgb(0,0,255)" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="PT:jx电压互感器4圈5_0" viewBox="0,0,36,48" name="圈压变"> 
+<circle cx="17.5" cy="8.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="17.5" cy="17.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="8.5" cy="13.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<circle cx="27.5" cy="12.5" r="6.5" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<line x1="18" y1="24" x2="18" y2="44" stroke-width="1" fill="none" stroke="rgb(0,0,255)" Plane="0" AFMask="32783"/>  
+<rect x="12" y="28" width="12" height="16" transform="rotate(0,18,36)" stroke-width="1" stroke="rgb(0,0,255)" fill="none" Plane="0" AFMask="32783"/> 
+</symbol>
+<symbol id="Arrester:jx避雷器500_0" viewBox="0,0,14,34" name="避雷器"> 
+<polygon points="5,7 7,14 9,7" stroke-width="1" stroke="rgb(255,0,0)" fill="rgb(255,0,0)" Plane="0" AFMask="32783"/>  
+<rect x="3" y="4" width="9" height="18" transform="rotate(0,7,13)" stroke-width="1" stroke="rgb(255,0,0)" fill="none" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="4" x2="7" y2="7" stroke-width="1" fill="none" stroke="rgb(255,0,0)" Plane="0" AFMask="32783"/>  
+<line x1="7" y1="23" x2="7" y2="27" stroke-width="1" fill="none" stroke="rgb(255,0,0)" Plane="0" AFMask="32783"/>  
+<line x1="3" y1="27" x2="11" y2="27" stroke-width="1" fill="none" stroke="rgb(255,0,0)" Plane="0" AFMask="32783"/>  
+<line x1="4" y1="29" x2="10" y2="29" stroke-width="1" fill="none" stroke="rgb(255,0,0)" Plane="0" AFMask="32783"/>  
+<line x1="6" y1="31" x2="9" y2="31" stroke-width="1" fill="none" stroke="rgb(255,0,0)" Plane="0" AFMask="32783"/> 
+</symbol>
+</defs>
+</svg>
